@@ -1,5 +1,4 @@
-<?php
-
-include_once("index.html");
-
-?>
+<!DOCTYPE html>
+<body></body>
+<title>Test!</title>
+<div>Test!</div>
